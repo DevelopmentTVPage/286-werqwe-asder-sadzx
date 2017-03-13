@@ -1,0 +1,10 @@
+#Hugo configuration
+title = "Damian Stage epqwoker"
+baseURL = "https:\/\/werqwe.asder.sadzx"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+
+[params]
+loginId = "1758823"
+subfolder = ""
